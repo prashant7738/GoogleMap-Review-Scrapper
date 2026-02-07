@@ -1,2 +1,5 @@
-venv
-User
+venv/
+User/
+*.pyc
+__pycache__/
+*.csv
